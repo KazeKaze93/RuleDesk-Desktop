@@ -1,6 +1,6 @@
 > [!WARNING]
 > **This repository is archived.** The desktop app is no longer relevant and is not developed or supported.
-> Its place is taken by **RuleDesk Web**, a userscript that works on the site itself: https://github.com/KazeKaze93/ruledesk-web
+> Its place is taken by the **RuleDesk** userscript, which works on the site itself: https://github.com/KazeKaze93/RuleDesk
 
 <div align="center">
 
